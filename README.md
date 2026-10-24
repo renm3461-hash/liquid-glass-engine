@@ -1,4 +1,4 @@
-# liquid-glass-engine
+# liquid-glass-engine[在应用此 npm 包时，必须应用最新版本的 npm 包，初始版本为 1.4.0]
 
 为 Web 打造的液态玻璃视觉引擎，用 SVG 滤镜实现折射、阴影、高光与自适应材质，开箱即用。
 
@@ -48,5 +48,3 @@ Chrome / Edge 90+，Safari 15.4+，Firefox 103+
 ## License
 
 MIT
-
-## 在应用此 npm 包时，必须应用最新版本的 npm 包，初始版本为 1.4.0 。
