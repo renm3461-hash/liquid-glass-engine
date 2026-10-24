@@ -48,3 +48,5 @@ Chrome / Edge 90+，Safari 15.4+，Firefox 103+
 ## License
 
 MIT
+
+## 在应用此 npm 包时，必须应用最新版本的 npm 包，初始版本为 1.4.0 。
